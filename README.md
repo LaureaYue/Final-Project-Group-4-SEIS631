@@ -1,9 +1,9 @@
 # Project 2: Group 4 -- FINAL PROJECT
 
-Yue Cade
-Tony Challeen
-Siphosenkosi Mpofu
-Jason Shapiro
+Yue Cade \
+Tony Challeen \
+Siphosenkosi Mpofu \
+Jason Shapiro \
 Brian Susick
 
 - Question #1 - [finalproject.ipynb](./finalproject.ipynb)
