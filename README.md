@@ -6,9 +6,9 @@
 - Jason Shapiro
 - Brian SusickFinal Project
 
-Question #1 - [finalproject.ipyng](./finalproject.ipyng) \
-Question #2 - [finalproject.ipyng](./finalproject.ipyng) \
+Question #1 - [finalproject.ipynb](./finalproject.ipynb) \
+Question #2 - [finalproject.ipynb](./finalproject.ipynb) \
 Question #3 - \
-Question #4 - [finalproject.ipyng](./finalproject.ipyng) \
+Question #4 - [finalproject.ipynb](./finalproject.ipynb) \
 Question #5 - \
 Question #6 - \
