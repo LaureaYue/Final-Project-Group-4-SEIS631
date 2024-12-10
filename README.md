@@ -18,7 +18,7 @@ On average all four regions moved to a pending state at a similar rate, while th
 
 - Question #1 - [finalproject.ipynb](./finalproject.ipynb)
 - Question #2 - [finalproject.ipynb](./finalproject.ipynb)
-- Question #3 -
+- Question #3 - [finalproject_q3.ipynb](./finalproject_q3.ipynb)
 - Question #4 - [finalproject.ipynb](./finalproject.ipynb)
-- Question #5 -
-- Question #6 -
+- Question #5 - [finalproject_q5_q6.ipynb](./finalproject_q5_q6.ipynb)
+- Question #6 - [finalproject_q5_q6.ipynb](./finalproject_q5_q6.ipynb)
