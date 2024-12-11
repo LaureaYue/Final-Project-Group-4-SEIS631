@@ -24,8 +24,8 @@ The top 10 states by Average Home price growth showed how competitive the North 
 
 The state by state growth forecast for the states in top 10 (growth ) using ARIMA showed a 6 month growth forecast of the home value growth for all the states . The best places to Invest in the North Eastern region are New Hampshire , Maine and New Jersey
 
-Invest now because the market forecast is showing positive growth.
-
-Invest in the North Eastern Region particularly Maine, New Jersey and New Hampshire
+Regarding timing: Invest now because the market forecast is showing positive growth; invest in the North Eastern Region particularly Maine, New Jersey and New Hampshire
 
 On average all four regions moved to a pending state at a similar rate, while the northeast region was slightly quicker. However when looking at average days to closing we can see the northeast region takes significantly longer, around 2 standard deviations. If the investor is not concerned with waiting a few extra days on average to close a sale, then we still suggest the northeast real estate market.
+
+In conclusion, with all factors considered holisitically, now is a great time to invest in the Northeast real estate market.
