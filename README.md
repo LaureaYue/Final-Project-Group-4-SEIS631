@@ -32,4 +32,4 @@ Now is an excellent time to invest, but which strategy should you choose—selli
 
 On the other hand, if renting out properties is your preferred investment strategy, the Midwest offers the best opportunities. Despite ranking lowest for ROI in selling, the Midwest achieves an average ROI of 5% for rental properties. At the state level, West Virginia stands out as the most promising for rental investments. Among major metro areas, Oak Harbor, Washington, leads with an impressive 35% ROI for rental properties. At the same time, San Jose, California, ranks as the least favorable, with a negative ROI of -18% for landlords.
 
-By analyzing the current market trends, you can decide which investment strategy aligns best with your financial goals.
+In summary, the Northeast region remains the most competitive and promising market for real estate investments, with states like New Hampshire, New Jersey, and Maine leading in home value growth and ROI potential. Whether pursuing a selling or rental strategy, investors can capitalize on these trends to maximize returns in a steadily growing housing market.
