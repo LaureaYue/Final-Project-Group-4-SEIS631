@@ -26,11 +26,6 @@ Invest in the North Eastern Region particularly Maine, New Jersey and New Hampsh
 
 On average all four regions moved to a pending state at a similar rate, while the northeast region was slightly quicker. However when looking at average days to closing we can see the northeast region takes significantly longer, around 2 standard deviations. If the investor is not concerned with waiting a few extra days on average to close a sale, then we still suggest the northeast real estate market.
 
-## Jupyter Notebooks
+## Jupyter Notebook
 
-- Question #1 - [finalproject.ipynb](./finalproject.ipynb)
-- Question #2 - [finalproject.ipynb](./finalproject.ipynb)
-- Question #3 - [finalproject_q3.ipynb](./finalproject_q3.ipynb)
-- Question #4 - [finalproject.ipynb](./finalproject.ipynb)
-- Question #5 - [finalproject_q5_q6.ipynb](./finalproject_q5_q6.ipynb)
-- Question #6 - [finalproject_q5_q6.ipynb](./finalproject_q5_q6.ipynb)
+[finalproject.ipynb](./finalproject.ipynb)
