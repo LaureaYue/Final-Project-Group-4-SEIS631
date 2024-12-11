@@ -6,6 +6,10 @@ Siphosenkosi Mpofu \
 Jason Shapiro \
 Brian Susick
 
+## Jupyter Notebook
+
+[finalproject.ipynb](./finalproject.ipynb)
+
 ## Summary
 
 After breaking down Zillow's Forecasting Data into US Regions (Northeast, South, Midwest, West), home values prices are expected to increase highest for the Northeast and Southwest in the short-term (month ahead & quarter ahead), and Northeast in the longer term (year ahead, overall). Specific states with the three highest forecasted home value increases in the Northeast are: NJ, NH, and ME. The lowest are VT, NY, and PA
@@ -25,7 +29,3 @@ Invest now because the market forecast is showing positive growth.
 Invest in the North Eastern Region particularly Maine, New Jersey and New Hampshire
 
 On average all four regions moved to a pending state at a similar rate, while the northeast region was slightly quicker. However when looking at average days to closing we can see the northeast region takes significantly longer, around 2 standard deviations. If the investor is not concerned with waiting a few extra days on average to close a sale, then we still suggest the northeast real estate market.
-
-## Jupyter Notebook
-
-[finalproject.ipynb](./finalproject.ipynb)
